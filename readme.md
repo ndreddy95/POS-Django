@@ -25,7 +25,7 @@ By integrating billing, inventory, and CRM modules into a single platform, GPoSM
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS, Bootstrap (Admin Template)
 - **Database**: SQLite3
-- **Libraries**: Django ORM, Crispy Forms (if used)
-- **Deployment**: Localhost / PythonAnywhere / Heroku (optional)
+- **Libraries**: Django ORM
+- **Deployment**: Localhost 
 
 ---
